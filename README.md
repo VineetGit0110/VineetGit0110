@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI, Quantum Computing, Advance PowerBI, Tableau and DBMS features**
 
-- 💬 Ask me about **trainings which can include, Data Analytics and Programming with Java**
+- 💬 Ask me about **trainings which can includes Data Analytics, Programming with Java and Project Managements**
 
 - 📫 How to reach me **vkgupta1985@gmail.com**
 
